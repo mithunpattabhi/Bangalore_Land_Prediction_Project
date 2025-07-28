@@ -32,6 +32,10 @@ This project is a machine learning-based web application that predicts **land pr
 - **Model**: Scikit-learn (Linear Regression)
 - **Visualization**: Matplotlib, Pandas
 
+##Please Note:
+- Project currently contains only 5 key localities
+- More will be added as updating dataset
+
 ##  Requirements
 
 Create a virtual environment and install the dependencies:
