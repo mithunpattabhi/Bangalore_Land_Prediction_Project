@@ -17,8 +17,8 @@ This project is a machine learning-based web application that predicts **land pr
   - Amenities Score
   - Connectivity Score
   - Guideline Value (INR)
-Where year, Locality and Land Type infomration is collected from user
-Other features are set by default
+- Year, Locality and Land Type infomration is collected from user.
+- Other features are set by default
 - Displays a trend plot showing **price appreciation by year**.
 - Dynamic dropdowns and form validation.
 - Integrated prediction logic using a trained **Linear Regression** model.
