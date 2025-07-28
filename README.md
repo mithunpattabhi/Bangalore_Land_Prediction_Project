@@ -1,0 +1,39 @@
+### Bangalore Land Price Prediction Using Machine Learning
+
+This project is a machine learning-based web application that predicts **land prices per square foot** in Bangalore based on multiple input features such as year, locality, land type, rental value, amenities, and more. The model is trained on real-world data and offers a user-friendly interface built using Flask.
+
+---
+
+## Features
+
+- Predicts **price per square foot** based on:
+  - Year
+  - Locality
+  - Land Type
+  - Zone
+  - Rental Value
+  - Appreciation %
+  - Distance (km)
+  - Amenities Score
+  - Connectivity Score
+  - Guideline Value (INR)
+
+- Displays a trend plot showing **price appreciation by year**.
+- Dynamic dropdowns and form validation.
+- Integrated prediction logic using a trained **Linear Regression** model.
+
+---
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS (Bootstrap)
+- **Backend**: Python, Flask
+- **Model**: Scikit-learn (Linear Regression)
+- **Visualization**: Matplotlib, Pandas
+
+##  Requirements
+
+Create a virtual environment and install the dependencies:
+
+```bash
+pip install -r requirements.txt
